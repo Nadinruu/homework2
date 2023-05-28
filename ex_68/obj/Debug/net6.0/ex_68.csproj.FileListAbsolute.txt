@@ -1,0 +1,15 @@
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\bin\Debug\net6.0\ex_68.exe
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\bin\Debug\net6.0\ex_68.deps.json
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\bin\Debug\net6.0\ex_68.runtimeconfig.json
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\bin\Debug\net6.0\ex_68.dll
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\bin\Debug\net6.0\ex_68.pdb
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.csproj.AssemblyReference.cache
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.AssemblyInfoInputs.cache
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.AssemblyInfo.cs
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.csproj.CoreCompileInputs.cache
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.dll
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\refint\ex_68.dll
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.pdb
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ex_68.genruntimeconfig.cache
+C:\Users\Наденька\Desktop\nadyaru\homework\ex_68\obj\Debug\net6.0\ref\ex_68.dll
